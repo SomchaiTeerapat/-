@@ -3549,7 +3549,41 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 =====================
 
 
-เพจไม่พร้อมใช้งาน
+=============================================================================================
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026
+============================================================================================
+#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="FILM",tvN Movies (🎃)
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="DUNIA | KOREA",tvN Movies(🎃)
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+-NASIONAL
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 3" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" group-title="NASIONAL",Trans TV (🎃)
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 3" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" group-title="NASIONAL",Trans 7 (🎃)
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV - Server 2" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" group-title=NASIONAL",ANTV (🎃)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="ANAK",Aniplus ((🎃))
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4osDsX2mOO5Da1xbYpRu4Ro
+
+
+
+============================================================================================
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026
+============================================================================================
+
 
 
 
