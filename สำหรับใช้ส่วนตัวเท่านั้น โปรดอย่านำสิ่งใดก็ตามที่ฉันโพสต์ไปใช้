@@ -3578,10 +3578,70 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="ANAK",Aniplus ((🎃))
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4osDsX2mOO5Da1xbYpRu4Ro
 
-
+===FILM
+#EXTINF:-1 tvg-id="CCM (⏰NO 24HRS)" tvg-name="CCM (⏰NO 24HRS)" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="FILM",CCM (⏰NO 24HRS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=45&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+#EXTINF:-1 tvg-id="Cineedge (⏰NO 24HRS)" tvg-name="Cineedge (⏰NO 24HRS)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="FILM",Cineedge (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=40&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+#EXTINF:-1 tvg-id="Galaxy (⏰NO 24HRS)" tvg-name="Galaxy (⏰NO 24HRS)" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="FILM",Galaxy (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=49&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#EXTINF:-1 tvg-id="Galaxy Premium (⏰NO 24HRS)" tvg-name="Galaxy Premium (⏰NO 24HRS)" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="FILM",Galaxy Premium (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=48&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 tvg-id="HitsMovies (⏰NO 24HRS)" tvg-name="HitsMovies (⏰NO 24HRS)" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="FILM",HitsMovies (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=42&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+EXTINF:-1 tvg-id="ORIGINALS (⏰NO 24HRS)" tvg-name="ORIGINALS (⏰NO 24HRS)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="FILM",ORIGINALS (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=36&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL (⏰NO 24HRS)" tvg-name="STUDIO UNIVERSAL (⏰NO 24HRS)" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="FILM",STUDIO UNIVERSAL (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=54&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="SUPERRIX (⏰NO 24HRS)" tvg-name="SUPERRIX (⏰NO 24HRS)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="FILM",SUPERRIX (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=39&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#EXTINF:-1 tvg-id="Uniquest (⏰NO 24HRS)" tvg-name="Uniquest (⏰NO 24HRS)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="FILM",Uniquest (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=38&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+#EXTINF:-1 tvg-id="Celestial Movies (Vision+)" tvg-name="Celestial Movies (Vision+)" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="FILM",Celestial Movies (⏰NO 24HRS)
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 ============================================================================================
-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026 🕰️🕰️⏰
 ============================================================================================
 
 
@@ -8881,19 +8941,19 @@ https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzT881qnqdL_autosp.m3u8?txSecr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 tvg-id="SPORTSTARS 2 (Vision+)" tvg-name="SPORTSTARS 2 (Vision+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/SPORTStars_2.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 2 (Vision+)
+#EXTINF:-1 tvg-id="SPORTSTARS 2 (⏰NO 24HRS)" tvg-name="SPORTSTARS 2 (⏰NO 24HRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/SPORTStars_2.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 2 (⏰NO 24HRS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-id="SPORTSTARS 3 (Vision+)" tvg-name="SPORTSTARS 3 (Vision+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/SPORTStars_3.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 3 (Vision+)
+#EXTINF:-1 tvg-id="SPORTSTARS 3 (⏰NO 24HRS)" tvg-name="SPORTSTARS 3 (⏰NO 24HRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/SPORTStars_3.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 3 (⏰NO 24HRS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=114&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-#EXTINF:-1 tvg-id="SPORTSTARS 4 (Vision+)" tvg-name="SPORTSTARS 4 (Vision+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/SPORTStars_4.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 4 (Vision+)
+#EXTINF:-1 tvg-id="SPORTSTARS 4 (⏰NO 24HRS)" tvg-name="SPORTSTARS 4 (⏰NO 24HRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/SPORTStars_4.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS 4 (⏰NO 24HRS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
